@@ -16,9 +16,9 @@ Say you have a few docker containers running locally. You want to inspect them s
 
 If I want to stop and remove either of these containers, I need to either copy the CONTAINER ID to my clipboard or type it out when I write 
 
-    docker rm -f 49e7b2250bc1`. With `dockerstopper
-
-all I need to write in the terminal is:
+    docker rm -f 49e7b2250bc1`
+    
+With `dockerstopper`, all I need to write in the terminal is:
 
     dockerstopper 1
 
