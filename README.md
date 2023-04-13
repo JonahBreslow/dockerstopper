@@ -24,6 +24,6 @@ With `dockerstopper`, all I need to write in the terminal is:
 
 If I want to stop and remove multiple containers, all I need to do is pass `dockerstopper` a list of integers that represent the index of the containers you want to stop. For example, if I want to stop and remove both of these containers, all i need to run is:
 
-   dockerstopper 1,2
+    dockerstopper 1,2
 
 That is all. 
